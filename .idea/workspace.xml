@@ -483,7 +483,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="add todo_spec" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/rails_todo@Development__rails_todo.rcov" NAME="Development: rails-todo Coverage Results" MODIFIED="1575647771457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rails-todo" />
+    <SUITE FILE_PATH="coverage/rails_todo@Development__rails_todo.rcov" NAME="Development: rails-todo Coverage Results" MODIFIED="1575650981029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rails-todo" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config/application.rb">
